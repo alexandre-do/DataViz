@@ -9,5 +9,5 @@ Repertory containing data-viz tools to explore dataset.
 pip install -r requirements.txt
 ```
 
-![Olympic Demo](GIF/olympic.gif)
+
 
